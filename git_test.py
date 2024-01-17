@@ -1,1 +1,5 @@
 print('hello world')
+a = input("Enter a number: ")
+b = input("Enter another number: ")
+c = int(a) + int(b)
+print('sum is : {}'.format(c))
